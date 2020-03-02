@@ -22,7 +22,7 @@ But what is the scale, how many times, on planet earth, can we scale until it be
 By this very simple, and grossly inaccurate exercise we have seen that we should already consider multiple scales, in population and in area covered:
 
 * individual : 1
-* city: 10k \(close individual interractions\)
+* city: 10k \(close individual interactions\)
 * country: 1M \(political/army influence\)
 * continent: 10M \(access to geographical resources\)
 * earth: 1000M \(upper bound\)

@@ -18,7 +18,7 @@ Armed with this knowledge we now need to come up with a "core mathematical progr
 
 Then we end up with three complementary goals on our hands:  
 - a mathematical theory that model computing, ie the transformation of information, and is expressible via a "language" as universal as possible.  
-- a mecanical computer from which people could potentially centuries later understand the concepts  
+- a mechanical computer from which people could potentially centuries later understand the concepts  
 - a electrical computer, for efficiency in learning, while we are still able to build one.
 
 Each of these need to encode the two others in one form or another... With this it seems we can have a base on which to build upon:  
